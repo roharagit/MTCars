@@ -1,2 +1,2 @@
 # MTCars
-Sample Repor
+Sample Repo
